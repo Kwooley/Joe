@@ -1,0 +1,4 @@
+returned text with id:	NCT02012699	
+returned text with id:	NCT03623945	
+returned text with id:	NCT04538664	
+returned text with id:	NCT04988295	
